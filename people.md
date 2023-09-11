@@ -19,7 +19,9 @@
 - Olivia Hu
 - Aarya Kini
 - Themis Kung
-- James Spitzenberger
+
+- James Spitzenberger (he/him) is a junior in the CD program at Parsons. Interested in taking this class to understand JS better in order to get deeper into web/interactive design. He enjoys collecting vintage pop culture items such as retro video games, books, and trinkets.
+
 - Deeva Thomas
 - Tong Wu
 - Haiyu Zhou
